@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageScrollView", "ImageScrollView\ImageScrollView.csproj", "{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Release|iPhone.Build.0 = Release|iPhone
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AEFD4C44-27FA-4BFD-891F-DBCB9132E354}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ImageScrollView\ImageScrollView.csproj
+	EndGlobalSection
+EndGlobal
